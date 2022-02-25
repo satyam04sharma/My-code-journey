@@ -1,0 +1,19 @@
+During my Second year at Tata Consulting Services, I was working on a image processing problem and was able to come up to a neat solution which involved combining 2 different algorithms which tried to give the same end solution but by using 2 separate paths.  This combination really supressed the trade - offs offered by them to considerably low levels. 
+
+
+During the month of November 2021, My project faced a major backlash. We had to revamp our frontend from bottom up and on a totally new Tech Stack. I took on that opportunity of learning a whole new framework while also building the project. It was a mentally and physically enervating task. When I was able to finish it on time and every one appreciated what a mammoth task I had done. These small tasks in my day to day life make me realize my core strength and the things I am good at.
+
+
+Introduction:
+My interest in research was initiated when I came to know about ACM. During my 3rd year of Bachelors I was selected to represent my college in ACM-ICPC (an international programming contest for college students). I was acquainted with the world of research papers, journals and what impact do they have on the progress of humanity. 
+
+
+
+Introduction
+I belong to a family of doctors, But since my childhood I have been a computer enthusiast, I was always the first in class from creating an email Id to creating a calculator. When I got an opportunity to study my bachelors degree in the field of computer science at a reputed institute I grabbed it with both hands. I have always been an enthusiast in developing projects and utilizing different languages to their potential. During my first year of bachelors when other students were merely trying to understand basic principals of Computer Science I was taking freelance projects in developing full stack websites. I also like to take care of my health and love to run a 5km whenever I get time.
+
+Purpose data science
+I have been working on NLP and Computer vision algorithms in my company and love to take new challenges each data. My sole purpose to take on a data science program at university of______ is to enhance my existing knowledge and come up with better and optimised solutions for my day to day tasks. Building a solution from scratch requires deep knowledge of best industry algorithms. I have been working in the Life sciences domain for past 2 and a 1/2 years and see a huge potential for use of data science in this industry. If I attend this course I am quite sure that I could use my enhance knowledge to full advantage.
+
+Purpose informatics
+
